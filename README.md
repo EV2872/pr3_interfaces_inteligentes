@@ -27,5 +27,6 @@
 ### ejer11: colision pero con trigger
 ![Gif consola](ejer11gif.gif)
 ### ejer12: probar colisiones con diferentes tamaños de masa
-### para una masa de la esfera 10 veces mayor el cilindro no es capaz de moverla, para 10 veces menor la desplaza facilmente y para la friccion
+### para una masa de la esfera 10 veces mayor el cilindro no es capaz de moverla, para 10 veces menor la desplaza facilmente y para la friccion si aumentamos el drag y rotation drag va mas lento
 ![Gif consola](ejer12gif.gif)
+![Gif consola](ejer12bgif.gif)
