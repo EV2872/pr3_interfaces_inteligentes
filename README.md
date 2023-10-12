@@ -18,5 +18,8 @@
 ![Gif consola](ejer8gif.gif)
 ### ejer 9/10: mostrar por consola si un objeto colisiona con el cilindro o la esfera
 ![Gif consola](ejer9gif.gif)
-### ejer8: girar el cubo o que avance siempre hacia delante
+### ejer11: colision pero con trigger
+![Gif consola](ejer11gif.gif)
+### ejer12: probar colisiones con diferentes tamaños de masa
+### para una masa de la esfera 10 veces mayor el cilindro no es capaz de moverla, para 10 veces menor la desplaza facilmente y para la friccion
 ![Gif consola](ejer12gif.gif)
