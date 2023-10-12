@@ -5,6 +5,12 @@
 ### ejer2: mapear la tecla H
 ![Gif consola](ejer2gif.gif)
 ### ejer3: mover el cubo, 
+### duplicar las coordenadas de la direccion del movimiento: desplaza mas rapido
+### duplicar la velocidad: se desplaza mas rapido
+### si la velocidas en 0 no se mueve y si es negativa se mueve en sentido contrario
+### si y > 0 entonces realiza el movimeinto desde mayor altura
+### movimiento respecto al sistema local de coordenadas
+### respecto al sistema de coordenadas del mundo
 ![Gif consola](ejer3gif.gif)
 ### ejer4: mover el cubo y la esfera con el teclado
 ![Gif consola](ejer4gif.gif)
